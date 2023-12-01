@@ -13,4 +13,10 @@
       </None>
     </ItemGroup>
 
+
+
+    <ItemGroup>
+      <PackageReference Include="Clipboard.CSharp" Version="0.2.1" />
+    </ItemGroup>
+
 </Project>

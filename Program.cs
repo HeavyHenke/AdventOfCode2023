@@ -1,3 +1,13 @@
-﻿using AdventOfCode2023;
+﻿using System.Diagnostics;
+using AdventOfCode2023;
+using NodaTime;
 
-Console.WriteLine(new Day1().CalcB());
+var sw = Stopwatch.StartNew();
+
+var result = new Day1().CalcB();
+
+sw.Stop();
+
+new Clipboard.WindowsClipboard(SystemClock.Instance).Write(result);
+Console.WriteLine(result);
+Console.WriteLine($"It took {sw.Elapsed}");

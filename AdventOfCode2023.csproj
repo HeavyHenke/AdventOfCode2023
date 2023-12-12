@@ -62,9 +62,13 @@
       <None Update="Day10.txt">
         <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
       </None>
+      <None Update="Day11_test.txt">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </None>
+      <None Update="Day11.txt">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </None>
     </ItemGroup>
-
-
 
     <ItemGroup>
       <PackageReference Include="Clipboard.CSharp" Version="0.2.1" />

@@ -10,72 +10,95 @@
     <ItemGroup>
       <None Update="Day1.txt">
         <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        <DependentUpon>Day1.cs</DependentUpon>
       </None>
       <None Update="Day2.txt">
         <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        <DependentUpon>Day2.cs</DependentUpon>
       </None>
       <None Update="Day2_test.txt">
         <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        <DependentUpon>Day2.cs</DependentUpon>
       </None>
       <None Update="Day3_test.txt">
         <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        <DependentUpon>Day3.cs</DependentUpon>
       </None>
       <None Update="Day3.txt">
         <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        <DependentUpon>Day3.cs</DependentUpon>
       </None>
       <None Update="Day4_test.txt">
         <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        <DependentUpon>Day4.cs</DependentUpon>
       </None>
       <None Update="Day4.txt">
         <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        <DependentUpon>Day4.cs</DependentUpon>
       </None>
       <None Update="Day5_test.txt">
         <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        <DependentUpon>Day5.cs</DependentUpon>
       </None>
       <None Update="Day5.txt">
         <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        <DependentUpon>Day5.cs</DependentUpon>
       </None>
       <None Update="Day7_test.txt">
         <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        <DependentUpon>Day7.cs</DependentUpon>
       </None>
       <None Update="Day7.txt">
         <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        <DependentUpon>Day7.cs</DependentUpon>
       </None>
       <None Update="Day8_test.txt">
         <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        <DependentUpon>Day8.cs</DependentUpon>
       </None>
       <None Update="Day8.txt">
         <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        <DependentUpon>Day8.cs</DependentUpon>
       </None>
       <None Update="Day8_test2.txt">
         <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        <DependentUpon>Day8.cs</DependentUpon>
       </None>
       <None Update="Day9_test.txt">
         <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        <DependentUpon>Day9.cs</DependentUpon>
       </None>
       <None Update="Day9.txt">
         <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        <DependentUpon>Day9.cs</DependentUpon>
       </None>
       <None Update="Day10_test.txt">
         <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        <DependentUpon>Day10.cs</DependentUpon>
       </None>
       <None Update="Day10.txt">
         <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        <DependentUpon>Day10.cs</DependentUpon>
       </None>
       <None Update="Day11_test.txt">
         <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        <DependentUpon>Day11.cs</DependentUpon>
       </None>
       <None Update="Day11.txt">
         <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        <DependentUpon>Day11.cs</DependentUpon>
       </None>
       <None Update="Day12_test.txt">
         <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        <DependentUpon>Day12.cs</DependentUpon>
       </None>
       <None Update="Day12.txt">
         <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        <DependentUpon>Day12.cs</DependentUpon>
       </None>
       <None Update="Day10_test2.txt">
         <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        <DependentUpon>Day10.cs</DependentUpon>
       </None>
     </ItemGroup>
 

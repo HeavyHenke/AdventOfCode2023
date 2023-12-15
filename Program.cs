@@ -4,7 +4,7 @@ using NodaTime;
 
 var sw = Stopwatch.StartNew();
 
-var result = new Day10().CalcB();
+var result = new Day12().CalcB();
 
 sw.Stop();
 

@@ -116,6 +116,14 @@
         <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
         <DependentUpon>Day14.cs</DependentUpon>
       </None>
+      <None Update="Day15_test.txt">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        <DependentUpon>Day15.cs</DependentUpon>
+      </None>
+      <None Update="Day15.txt">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        <DependentUpon>Day15.cs</DependentUpon>
+      </None>
     </ItemGroup>
 
     <ItemGroup>
